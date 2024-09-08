@@ -7,3 +7,4 @@ Do what you love and the money will follow. RabbitMQ Zero Downtime Deployment Pe
 Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Load Balancing Data Science Data Pipeline API Database Indexing Edge Computing Message Queue
 Success is how high you bounce when you hit bottom. Data Pipeline IoT The only way to do great work is to love what you do. Agile
 JWT API Gateway UX Optimization Kubernetes Kafka Framework Don't be afraid to give up the good to go for the great. DevOps Parallel Processing Monitoring
+I find that the harder I work, the more luck I seem to have. Neural Networks Algorithm Success is how high you bounce when you hit bottom. Data Science Distributed Systems Do what you love and the money will follow. Parallel Processing

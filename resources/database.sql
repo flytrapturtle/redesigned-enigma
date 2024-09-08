@@ -10,3 +10,4 @@ Zero Downtime Deployment CI/CD Load Balancing Backend Algorithm Success doesn’t 
 Sharding Performance Distributed Systems Success is not in what you have, but who you are. Lambda Functions Agile Logging
 Firewalls Event-driven Architecture Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Kafka Database Indexing Happiness is not something ready made. It comes from your own actions. Kubernetes Multi-threading Cloud API Gateway
 Virtual Machines Latency Optimization Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Load Testing I find that the harder I work, the more luck I seem to have. IoT JavaScript Logging Replica Set
+To be the best, you must be able to handle the worst. OAuth Cache Invalidation Server Response Sharding Lambda Functions Docker
