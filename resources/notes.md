@@ -12,3 +12,4 @@ Dream big and dare to fail. Content Delivery Network Cloud Functions Replica Set
 Sharding RabbitMQ NLP Difficult roads often lead to beautiful destinations. Virtual Machines Kubernetes Opportunities don't happen. You create them. Cloud Functions IoT Edge Computing
 JavaScript Predictive Analytics CI/CD Security I find that the harder I work, the more luck I seem to have. Firewalls Kafka Opportunities don't happen. You create them. Docker Happiness is not something ready made. It comes from your own actions. Logging
 Success usually comes to those who are too busy to be looking for it. Neural Networks Artificial Intelligence Automation CI/CD Testing Quantum Computing Containerization A/B Testing Zero Downtime Deployment GraphQL Great things never come from comfort zones. Data Pipeline Pull Request API Gateway
+Docker Edge Computing Code Review Lambda Functions WebSockets Big Data
