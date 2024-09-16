@@ -7,3 +7,4 @@ Message Queue Happiness is not something ready made. It comes from your own acti
 Framework Automation Data Science JavaScript Python Load Testing Dream big and dare to fail.
 Docker CI/CD API Python Blockchain Security Load Testing Quantum Computing Microservices Monitoring Deployment Server Response Kafka Don't be afraid to give up the good to go for the great.
 Stay hungry, stay foolish. Docker Virtual Machines Edge Computing Artificial Intelligence Automation
+Database Indexing Algorithm Opportunities don't happen. You create them. GraphQL DNS Routing Load Balancing Frontend Testing Success is how high you bounce when you hit bottom. Predictive Analytics

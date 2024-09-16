@@ -8,3 +8,4 @@ IoT Microservices Event-driven Architecture Algorithm Containerization Cache Inv
 NLP Artificial Intelligence Big Data Agile Data Pipeline Dream big and dare to fail. API Gateway Event-driven Architecture
 Backend Predictive Analytics Code Review Load Testing Database Indexing Artificial Intelligence Optimization Framework JWT Frontend Replica Set RabbitMQ
 Simplicity is the ultimate sophistication. Multi-threading Success is not in what you have, but who you are. Deployment Load Balancing Backend Container Orchestration Kafka Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Serverless Blockchain To be the best, you must be able to handle the worst.
+Firewalls The only way to do great work is to love what you do. Frontend Load Balancing Containerization Distributed Systems JWT Multi-threading
