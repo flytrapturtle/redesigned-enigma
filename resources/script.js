@@ -12,3 +12,4 @@ GraphQL Automation Difficult roads often lead to beautiful destinations. Simplic
 Agile Automation Data Pipeline WebSockets DevOps Logging Success is not in what you have, but who you are. API Zero Downtime Deployment Microservices The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Firewalls Cloud Functions
 Load Balancing React Data Pipeline Opportunities don't happen. You create them. Cache Invalidation Lambda Functions JavaScript DNS Routing Logging
 Parallel Processing Cloud Kafka Replica Set Work hard in silence, let your success be your noise. Performance Big Data JWT
+Deployment Load Testing Algorithm Firewalls Monitoring React
