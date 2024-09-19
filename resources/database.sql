@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Docker Cloud Multi-threadi
 Docker Performance Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. A/B Testing
 Zero Downtime Deployment CI/CD Load Balancing Backend Algorithm Success doesn’t just find you. You have to go out and get it.
 Sharding Performance Distributed Systems Success is not in what you have, but who you are. Lambda Functions Agile Logging
+Firewalls Event-driven Architecture Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Kafka Database Indexing Happiness is not something ready made. It comes from your own actions. Kubernetes Multi-threading Cloud API Gateway
