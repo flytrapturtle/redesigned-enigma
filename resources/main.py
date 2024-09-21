@@ -14,3 +14,4 @@ RabbitMQ Code Review Cloud JavaScript Multi-threading Virtual Machines Data Pipe
 If you can dream it, you can do it. Cloud Functions Code Review Performance Message Queue Containerization Do what you love and the money will follow. RabbitMQ Quantum Computing
 Event Sourcing Blockchain Simplicity is the ultimate sophistication. Quantum Computing Automation Serverless Cloud The only way to do great work is to love what you do.
 Sharding Firewalls Backend DevOps Code Review
+Container Orchestration Containerization I find that the harder I work, the more luck I seem to have. CI/CD Edge Computing Frontend Replica Set JWT Don't be afraid to give up the good to go for the great. Code Review Docker Cache Invalidation Agile Cloud Functions Logging
