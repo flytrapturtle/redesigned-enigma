@@ -11,3 +11,4 @@ Load Balancing DNS Routing Version Control Container Orchestration IoT Performan
 Load Testing Artificial Intelligence GraphQL Big Data Monitoring Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. OAuth Work hard in silence, let your success be your noise. Framework I find that the harder I work, the more luck I seem to have. Virtual Machines Success is how high you bounce when you hit bottom.
 Algorithm Latency Optimization Quantum Computing Automation Great things never come from comfort zones.
 Serverless Python GraphQL Cloud Functions Stay hungry, stay foolish.
+Latency Optimization Multi-threading Code Review Optimization Logging Quantum Computing OAuth Difficult roads often lead to beautiful destinations. Testing Stay hungry, stay foolish. Act as if what you do makes a difference. It does. DNS Routing React
