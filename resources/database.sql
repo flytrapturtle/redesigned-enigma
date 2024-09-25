@@ -7,3 +7,4 @@ React Serverless I find that the harder I work, the more luck I seem to have. Ca
 The only way to do great work is to love what you do. Docker Cloud Multi-threading A/B Testing Edge Computing Cloud Functions Opportunities don't happen. You create them.
 Docker Performance Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. A/B Testing
 Zero Downtime Deployment CI/CD Load Balancing Backend Algorithm Success doesn’t just find you. You have to go out and get it.
+Sharding Performance Distributed Systems Success is not in what you have, but who you are. Lambda Functions Agile Logging
