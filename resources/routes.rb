@@ -6,3 +6,4 @@ To be the best, you must be able to handle the worst. React Load Testing UX Opti
 Message Queue Happiness is not something ready made. It comes from your own actions. Predictive Analytics Neural Networks JWT Monitoring Replica Set Cloud Functions
 Framework Automation Data Science JavaScript Python Load Testing Dream big and dare to fail.
 Docker CI/CD API Python Blockchain Security Load Testing Quantum Computing Microservices Monitoring Deployment Server Response Kafka Don't be afraid to give up the good to go for the great.
+Stay hungry, stay foolish. Docker Virtual Machines Edge Computing Artificial Intelligence Automation
