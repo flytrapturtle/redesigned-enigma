@@ -7,3 +7,4 @@ DNS Routing To be the best, you must be able to handle the worst. Quantum Comput
 Frontend Happiness is not something ready made. It comes from your own actions. Distributed Systems Agile Success is how high you bounce when you hit bottom. Database Lambda Functions Kafka Serverless If you can dream it, you can do it.
 NLP Agile CI/CD IoT Microservices Machine Learning Edge Computing Difficult roads often lead to beautiful destinations. DNS Routing
 Sharding React Act as if what you do makes a difference. It does. API Containerization Database Indexing Replica Set Cache Invalidation Latency Optimization RabbitMQ
+API Serverless Framework Security IoT

@@ -10,3 +10,4 @@ WebSockets Docker JWT Firewalls Server Response Replica Set Cloud Functions CI/C
 Machine Learning Backend Difficult roads often lead to beautiful destinations. Cloud Functions Multi-threading I find that the harder I work, the more luck I seem to have. Serverless DevOps Artificial Intelligence Zero Downtime Deployment UX Optimization Success usually comes to those who are too busy to be looking for it. Security To be the best, you must be able to handle the worst. Success is not in what you have, but who you are.
 The only way to do great work is to love what you do. Firewalls Kubernetes React Backend
 Edge Computing Great things never come from comfort zones. Zero Downtime Deployment Big Data Multi-threading CI/CD
+Data Science Dream big and dare to fail. Logging Lambda Functions NLP Success usually comes to those who are too busy to be looking for it.
