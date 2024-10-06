@@ -7,3 +7,4 @@ Cloud Multi-threading Testing Act as if what you do makes a difference. It does.
 If you can dream it, you can do it. Kubernetes UX Optimization CI/CD Data Science
 Load Testing A/B Testing Innovation distinguishes between a leader and a follower. Artificial Intelligence Testing Happiness is not something ready made. It comes from your own actions.
 Lambda Functions Logging To be the best, you must be able to handle the worst. Automation Success is how high you bounce when you hit bottom. API Gateway Load Testing Testing React Server Response I find that the harder I work, the more luck I seem to have.
+Predictive Analytics Edge Computing Great things never come from comfort zones. NLP Sharding Data Pipeline CI/CD Monitoring The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. API Dream big and dare to fail. Python Logging Backend
