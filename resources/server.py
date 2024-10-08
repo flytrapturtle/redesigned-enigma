@@ -9,3 +9,4 @@ Lambda Functions Quantum Computing Event Sourcing Load Balancing Cache Invalidat
 Backend Don't be afraid to give up the good to go for the great. Big Data Container Orchestration WebSockets Frontend Database Indexing
 Load Balancing DNS Routing Version Control Container Orchestration IoT Performance
 Load Testing Artificial Intelligence GraphQL Big Data Monitoring Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. OAuth Work hard in silence, let your success be your noise. Framework I find that the harder I work, the more luck I seem to have. Virtual Machines Success is how high you bounce when you hit bottom.
+Algorithm Latency Optimization Quantum Computing Automation Great things never come from comfort zones.
