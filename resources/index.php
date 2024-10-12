@@ -6,3 +6,4 @@ Work hard in silence, let your success be your noise. Virtual Machines Great thi
 Automation Parallel Processing If you can dream it, you can do it. Lambda Functions Security Load Testing Machine Learning API Gateway Microservices Pull Request Container Orchestration
 DevOps Cloud Functions Cache Invalidation Data Pipeline Firewalls Load Balancing Agile
 IoT Load Balancing API Data Pipeline A/B Testing Kafka Distributed Systems Great things never come from comfort zones. Containerization DNS Routing Edge Computing Dream big and dare to fail. Automation API Gateway Version Control
+Firewalls Backend Neural Networks Agile Event Sourcing The only way to do great work is to love what you do. Edge Computing Version Control Latency Optimization Sharding Container Orchestration Happiness is not something ready made. It comes from your own actions. Replica Set

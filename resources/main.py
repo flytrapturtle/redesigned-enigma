@@ -13,3 +13,4 @@ Success doesn’t just find you. You have to go out and get it. Event Sourcing Art
 RabbitMQ Code Review Cloud JavaScript Multi-threading Virtual Machines Data Pipeline Load Balancing Edge Computing Quantum Computing
 If you can dream it, you can do it. Cloud Functions Code Review Performance Message Queue Containerization Do what you love and the money will follow. RabbitMQ Quantum Computing
 Event Sourcing Blockchain Simplicity is the ultimate sophistication. Quantum Computing Automation Serverless Cloud The only way to do great work is to love what you do.
+Sharding Firewalls Backend DevOps Code Review
