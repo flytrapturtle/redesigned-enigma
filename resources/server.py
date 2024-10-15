@@ -7,3 +7,4 @@ Backend If you can dream it, you can do it. JavaScript DevOps Pull Request Happi
 Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Kubernetes Docker Kafka
 Lambda Functions Quantum Computing Event Sourcing Load Balancing Cache Invalidation Database Security Firewalls
 Backend Don't be afraid to give up the good to go for the great. Big Data Container Orchestration WebSockets Frontend Database Indexing
+Load Balancing DNS Routing Version Control Container Orchestration IoT Performance
