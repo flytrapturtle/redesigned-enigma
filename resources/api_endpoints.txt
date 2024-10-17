@@ -4,3 +4,4 @@ Microservices IoT Stay hungry, stay foolish. UX Optimization Distributed Systems
 Happiness is not something ready made. It comes from your own actions. Frontend Backend Parallel Processing Logging Data Science Blockchain UX Optimization
 Sharding Big Data Logging Firewalls Frontend
 Cloud Multi-threading Testing Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Content Delivery Network Firewalls Database Container Orchestration CI/CD Success usually comes to those who are too busy to be looking for it. Cloud Functions Performance
+If you can dream it, you can do it. Kubernetes UX Optimization CI/CD Data Science
