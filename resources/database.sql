@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Cache Inv
 Data Pipeline Performance CI/CD NLP Load Testing Neural Networks Monitoring API Gateway Version Control Frontend Sharding Server Response Code Review Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
 React Serverless I find that the harder I work, the more luck I seem to have. Cache Invalidation Simplicity is the ultimate sophistication. The only way to do great work is to love what you do.
 The only way to do great work is to love what you do. Docker Cloud Multi-threading A/B Testing Edge Computing Cloud Functions Opportunities don't happen. You create them.
+Docker Performance Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. A/B Testing
