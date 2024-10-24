@@ -6,3 +6,4 @@ Great things never come from comfort zones. Event-driven Architecture Kafka Mess
 Docker Quantum Computing Difficult roads often lead to beautiful destinations. Automation CI/CD Innovation distinguishes between a leader and a follower. Data Science Cloud Functions Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. React
 IoT Microservices Event-driven Architecture Algorithm Containerization Cache Invalidation Dream big and dare to fail.
 NLP Artificial Intelligence Big Data Agile Data Pipeline Dream big and dare to fail. API Gateway Event-driven Architecture
+Backend Predictive Analytics Code Review Load Testing Database Indexing Artificial Intelligence Optimization Framework JWT Frontend Replica Set RabbitMQ
