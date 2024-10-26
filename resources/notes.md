@@ -8,3 +8,4 @@ Content Delivery Network Innovation distinguishes between a leader and a followe
 Python Success is not in what you have, but who you are. Big Data Security I find that the harder I work, the more luck I seem to have. Kubernetes
 Container Orchestration UX Optimization Kubernetes Replica Set Framework Content Delivery Network Quantum Computing Cloud Artificial Intelligence Distributed Systems Message Queue If you can dream it, you can do it. Containerization Lambda Functions
 Latency Optimization UX Optimization Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Algorithm CI/CD A/B Testing Opportunities don't happen. You create them.
+Dream big and dare to fail. Content Delivery Network Cloud Functions Replica Set OAuth Pull Request GraphQL Serverless Edge Computing Performance Kubernetes Happiness is not something ready made. It comes from your own actions. RabbitMQ
