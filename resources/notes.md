@@ -6,3 +6,4 @@ Neural Networks Cloud Functions Security Cache Invalidation Latency Optimization
 CI/CD Kafka Frontend Latency Optimization Docker Logging Simplicity is the ultimate sophistication.
 Content Delivery Network Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. DNS Routing CI/CD Security I find that the harder I work, the more luck I seem to have. IoT WebSockets Load Testing If you can dream it, you can do it. DevOps RabbitMQ
 Python Success is not in what you have, but who you are. Big Data Security I find that the harder I work, the more luck I seem to have. Kubernetes
+Container Orchestration UX Optimization Kubernetes Replica Set Framework Content Delivery Network Quantum Computing Cloud Artificial Intelligence Distributed Systems Message Queue If you can dream it, you can do it. Containerization Lambda Functions
