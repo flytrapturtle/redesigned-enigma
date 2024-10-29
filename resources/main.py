@@ -11,3 +11,4 @@ Don't be afraid to give up the good to go for the great. Success usually comes t
 Server Response The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Serverless Edge Computing Firewalls
 Success doesn’t just find you. You have to go out and get it. Event Sourcing Artificial Intelligence Blockchain Optimization Testing Algorithm Serverless Monitoring Multi-threading Difficult roads often lead to beautiful destinations. Frontend
 RabbitMQ Code Review Cloud JavaScript Multi-threading Virtual Machines Data Pipeline Load Balancing Edge Computing Quantum Computing
+If you can dream it, you can do it. Cloud Functions Code Review Performance Message Queue Containerization Do what you love and the money will follow. RabbitMQ Quantum Computing
