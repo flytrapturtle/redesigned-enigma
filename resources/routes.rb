@@ -4,3 +4,4 @@ Data Science Distributed Systems DNS Routing To be the best, you must be able to
 Event-driven Architecture Cache Invalidation Blockchain Parallel Processing UX Optimization Distributed Systems Optimization Firewalls Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Quantum Computing
 To be the best, you must be able to handle the worst. React Load Testing UX Optimization Opportunities don't happen. You create them. RabbitMQ WebSockets Zero Downtime Deployment Big Data Docker Blockchain Edge Computing API Performance A/B Testing
 Message Queue Happiness is not something ready made. It comes from your own actions. Predictive Analytics Neural Networks JWT Monitoring Replica Set Cloud Functions
+Framework Automation Data Science JavaScript Python Load Testing Dream big and dare to fail.
