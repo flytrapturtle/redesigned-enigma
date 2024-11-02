@@ -4,3 +4,4 @@ GraphQL Act as if what you do makes a difference. It does. Load Testing RabbitMQ
 Replica Set Cloud Firewalls IoT DevOps
 Neural Networks Cloud Functions Security Cache Invalidation Latency Optimization UX Optimization Event-driven Architecture Database Success usually comes to those who are too busy to be looking for it.
 CI/CD Kafka Frontend Latency Optimization Docker Logging Simplicity is the ultimate sophistication.
+Content Delivery Network Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. DNS Routing CI/CD Security I find that the harder I work, the more luck I seem to have. IoT WebSockets Load Testing If you can dream it, you can do it. DevOps RabbitMQ
