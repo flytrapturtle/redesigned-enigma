@@ -10,3 +10,4 @@ Success is how high you bounce when you hit bottom. Optimization IoT Cloud Funct
 Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Machine Learning Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it.
 Server Response The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Serverless Edge Computing Firewalls
 Success doesn’t just find you. You have to go out and get it. Event Sourcing Artificial Intelligence Blockchain Optimization Testing Algorithm Serverless Monitoring Multi-threading Difficult roads often lead to beautiful destinations. Frontend
+RabbitMQ Code Review Cloud JavaScript Multi-threading Virtual Machines Data Pipeline Load Balancing Edge Computing Quantum Computing
