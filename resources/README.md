@@ -7,3 +7,4 @@ If you can dream it, you can do it. Microservices Load Testing Agile API Gateway
 Server Response Simplicity is the ultimate sophistication. Sharding Act as if what you do makes a difference. It does. Machine Learning Pull Request Performance Blockchain Version Control Monitoring
 Difficult roads often lead to beautiful destinations. Message Queue Content Delivery Network Data Science Cloud Sharding Artificial Intelligence Big Data Work hard in silence, let your success be your noise. Parallel Processing DNS Routing Logging Docker
 Deployment Simplicity is the ultimate sophistication. Frontend Zero Downtime Deployment Dream big and dare to fail. Distributed Systems Performance DevOps Artificial Intelligence
+Code Review Version Control Replica Set Do what you love and the money will follow. Python Automation Load Balancing Opportunities don't happen. You create them. Act as if what you do makes a difference. It does.
