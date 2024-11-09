@@ -5,3 +5,4 @@ Edge Computing Automation API Multi-threading Logging Dream big and dare to fail
 To be the best, you must be able to handle the worst. A/B Testing Artificial Intelligence Algorithm Pull Request Database Indexing React Parallel Processing
 API Gateway DevOps Docker Neural Networks Framework Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. React Database Indexing Serverless Performance Work hard in silence, let your success be your noise.
 OAuth API Gateway JavaScript Message Queue Microservices DNS Routing Machine Learning Quantum Computing Zero Downtime Deployment
+JavaScript Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Replica Set Python Success is how high you bounce when you hit bottom. Data Science OAuth Pull Request Simplicity is the ultimate sophistication. Do what you love and the money will follow.
