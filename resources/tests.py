@@ -6,3 +6,4 @@ Sharding Stay hungry, stay foolish. Multi-threading Containerization WebSockets 
 Multi-threading Scalability Cloud Functions JavaScript Monitoring Success is how high you bounce when you hit bottom. Cloud Docker If you can dream it, you can do it. Simplicity is the ultimate sophistication.
 Logging Version Control I find that the harder I work, the more luck I seem to have. NLP Lambda Functions JWT Container Orchestration
 A/B Testing Quantum Computing Load Testing Neural Networks Parallel Processing API Gateway
+A/B Testing Opportunities don't happen. You create them. Replica Set Firewalls Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Cloud Innovation distinguishes between a leader and a follower. JavaScript Quantum Computing Event-driven Architecture CI/CD Do what you love and the money will follow. Kafka
