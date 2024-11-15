@@ -6,3 +6,4 @@ Opportunities don't happen. You create them. Predictive Analytics Performance OA
 Backend If you can dream it, you can do it. JavaScript DevOps Pull Request Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Version Control Zero Downtime Deployment Agile
 Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Kubernetes Docker Kafka
 Lambda Functions Quantum Computing Event Sourcing Load Balancing Cache Invalidation Database Security Firewalls
+Backend Don't be afraid to give up the good to go for the great. Big Data Container Orchestration WebSockets Frontend Database Indexing
