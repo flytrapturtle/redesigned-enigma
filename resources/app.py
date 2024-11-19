@@ -6,3 +6,4 @@ Firewalls JavaScript Framework Multi-threading Database
 IoT Server Response Kafka Database Parallel Processing Framework Load Testing OAuth DevOps
 Version Control JavaScript Message Queue NLP Scalability Kafka Microservices UX Optimization Container Orchestration Data Pipeline Cache Invalidation DNS Routing
 Blockchain Optimization Quantum Computing Firewalls RabbitMQ Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Testing JavaScript Database Indexing Stay hungry, stay foolish. Success is not in what you have, but who you are. Logging
+WebSockets Docker JWT Firewalls Server Response Replica Set Cloud Functions CI/CD Machine Learning To be the best, you must be able to handle the worst. Multi-threading Success is how high you bounce when you hit bottom. Event-driven Architecture Kafka Scalability
