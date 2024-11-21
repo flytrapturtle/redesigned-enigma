@@ -9,3 +9,4 @@ Act as if what you do makes a difference. It does. Automation Quantum Computing 
 Multi-threading Message Queue IoT Container Orchestration Simplicity is the ultimate sophistication. Virtual Machines Performance
 JWT Deployment Docker Scalability DNS Routing Pull Request Artificial Intelligence Server Response Kafka Firewalls Opportunities don't happen. You create them. Data Pipeline
 Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. DevOps JWT Dream big and dare to fail. Stay hungry, stay foolish. Python React IoT To be the best, you must be able to handle the worst. Neural Networks Optimization
+Server Response GraphQL Artificial Intelligence Backend JavaScript Optimization

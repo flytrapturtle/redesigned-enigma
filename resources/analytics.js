@@ -1,3 +1,4 @@
 Lambda Functions Big Data Performance API Gateway NLP Parallel Processing Cache Invalidation Automation IoT Simplicity is the ultimate sophistication.
 Data Pipeline Opportunities don't happen. You create them. Server Response JavaScript Neural Networks Don't be afraid to give up the good to go for the great. Docker RabbitMQ Data Science Event Sourcing Replica Set Scalability Optimization NLP Firewalls
 NLP Algorithm Success doesn’t just find you. You have to go out and get it. Content Delivery Network Server Response A/B Testing Cloud Deployment Performance Success is not in what you have, but who you are. Kafka
+RabbitMQ Monitoring Quantum Computing Scalability Database The only way to do great work is to love what you do. Dream big and dare to fail. Neural Networks Machine Learning If you can dream it, you can do it. Kubernetes React Success is not in what you have, but who you are.
