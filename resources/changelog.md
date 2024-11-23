@@ -8,3 +8,4 @@ Success is how high you bounce when you hit bottom. I find that the harder I wor
 Act as if what you do makes a difference. It does. Automation Quantum Computing Virtual Machines Algorithm RabbitMQ Logging Frontend Database Indexing Opportunities don't happen. You create them. Event-driven Architecture Version Control Dream big and dare to fail.
 Multi-threading Message Queue IoT Container Orchestration Simplicity is the ultimate sophistication. Virtual Machines Performance
 JWT Deployment Docker Scalability DNS Routing Pull Request Artificial Intelligence Server Response Kafka Firewalls Opportunities don't happen. You create them. Data Pipeline
+Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. DevOps JWT Dream big and dare to fail. Stay hungry, stay foolish. Python React IoT To be the best, you must be able to handle the worst. Neural Networks Optimization
