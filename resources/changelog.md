@@ -7,3 +7,4 @@ Distributed Systems Kubernetes GraphQL Machine Learning Dream big and dare to fa
 Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. NLP Cloud Functions If you can dream it, you can do it. API
 Act as if what you do makes a difference. It does. Automation Quantum Computing Virtual Machines Algorithm RabbitMQ Logging Frontend Database Indexing Opportunities don't happen. You create them. Event-driven Architecture Version Control Dream big and dare to fail.
 Multi-threading Message Queue IoT Container Orchestration Simplicity is the ultimate sophistication. Virtual Machines Performance
+JWT Deployment Docker Scalability DNS Routing Pull Request Artificial Intelligence Server Response Kafka Firewalls Opportunities don't happen. You create them. Data Pipeline
