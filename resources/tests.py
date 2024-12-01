@@ -4,3 +4,4 @@ Data Science Load Testing Docker NLP Testing Sharding Zero Downtime Deployment A
 Deployment Parallel Processing Data Pipeline Cloud Functions NLP CI/CD JWT Content Delivery Network
 Sharding Stay hungry, stay foolish. Multi-threading Containerization WebSockets Neural Networks Monitoring Code Review Agile Automation Microservices Firewalls Frontend Success usually comes to those who are too busy to be looking for it. Message Queue
 Multi-threading Scalability Cloud Functions JavaScript Monitoring Success is how high you bounce when you hit bottom. Cloud Docker If you can dream it, you can do it. Simplicity is the ultimate sophistication.
+Logging Version Control I find that the harder I work, the more luck I seem to have. NLP Lambda Functions JWT Container Orchestration
