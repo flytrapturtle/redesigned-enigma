@@ -5,3 +5,4 @@ Agile Deployment Kafka I find that the harder I work, the more luck I seem to ha
 Big Data Algorithm Serverless DNS Routing JWT Opportunities don't happen. You create them.
 If you can dream it, you can do it. Microservices Load Testing Agile API Gateway Monitoring Framework Big Data Deployment Server Response Latency Optimization Python Parallel Processing
 Server Response Simplicity is the ultimate sophistication. Sharding Act as if what you do makes a difference. It does. Machine Learning Pull Request Performance Blockchain Version Control Monitoring
+Difficult roads often lead to beautiful destinations. Message Queue Content Delivery Network Data Science Cloud Sharding Artificial Intelligence Big Data Work hard in silence, let your success be your noise. Parallel Processing DNS Routing Logging Docker
