@@ -5,3 +5,4 @@ Cloud Functions Pull Request Act as if what you do makes a difference. It does. 
 Opportunities don't happen. You create them. Predictive Analytics Performance OAuth Big Data Dream big and dare to fail. Security Scalability Docker To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Lambda Functions
 Backend If you can dream it, you can do it. JavaScript DevOps Pull Request Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Version Control Zero Downtime Deployment Agile
 Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Kubernetes Docker Kafka
+Lambda Functions Quantum Computing Event Sourcing Load Balancing Cache Invalidation Database Security Firewalls
