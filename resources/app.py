@@ -4,3 +4,4 @@ Do what you love and the money will follow. Monitoring Security Happiness is not
 Success is not in what you have, but who you are. DNS Routing Sharding Container Orchestration If you can dream it, you can do it.
 Firewalls JavaScript Framework Multi-threading Database
 IoT Server Response Kafka Database Parallel Processing Framework Load Testing OAuth DevOps
+Version Control JavaScript Message Queue NLP Scalability Kafka Microservices UX Optimization Container Orchestration Data Pipeline Cache Invalidation DNS Routing
