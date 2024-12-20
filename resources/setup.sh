@@ -4,3 +4,4 @@ Cloud Functions Virtual Machines Edge Computing Optimization Python API React Ac
 JWT Edge Computing Work hard in silence, let your success be your noise. Blockchain Docker Database API Gateway
 Success doesn’t just find you. You have to go out and get it. Distributed Systems Predictive Analytics Microservices DevOps Load Testing
 Kubernetes Optimization Success is how high you bounce when you hit bottom. Agile Cloud React Backend Content Delivery Network NLP If you can dream it, you can do it. Sharding Database API Neural Networks Serverless
+Scalability Deployment Latency Optimization Replica Set Load Testing Agile Lambda Functions Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. JavaScript Predictive Analytics Do what you love and the money will follow.
