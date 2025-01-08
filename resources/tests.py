@@ -2,3 +2,4 @@ CI/CD GraphQL A/B Testing Latency Optimization Data Science NLP Stay hungry, sta
 Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. UX Optimization Multi-threading Zero Downtime Deployment Lambda Functions IoT
 Data Science Load Testing Docker NLP Testing Sharding Zero Downtime Deployment A/B Testing OAuth Great things never come from comfort zones.
 Deployment Parallel Processing Data Pipeline Cloud Functions NLP CI/CD JWT Content Delivery Network
+Sharding Stay hungry, stay foolish. Multi-threading Containerization WebSockets Neural Networks Monitoring Code Review Agile Automation Microservices Firewalls Frontend Success usually comes to those who are too busy to be looking for it. Message Queue
