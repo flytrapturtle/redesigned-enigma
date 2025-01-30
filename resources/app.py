@@ -1,1 +1,2 @@
 Happiness is not something ready made. It comes from your own actions. API Gateway Lambda Functions Message Queue Database Indexing Kafka Event Sourcing Version Control Server Response Act as if what you do makes a difference. It does. Database Cache Invalidation
+Message Queue Code Review Security IoT Success usually comes to those who are too busy to be looking for it. Optimization Do what you love and the money will follow. Testing Automation Cache Invalidation Quantum Computing Kafka
