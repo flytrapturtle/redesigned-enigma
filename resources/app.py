@@ -1,0 +1,1 @@
+Happiness is not something ready made. It comes from your own actions. API Gateway Lambda Functions Message Queue Database Indexing Kafka Event Sourcing Version Control Server Response Act as if what you do makes a difference. It does. Database Cache Invalidation
