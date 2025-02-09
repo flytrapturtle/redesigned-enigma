@@ -1,0 +1,1 @@
+Success usually comes to those who are too busy to be looking for it. Artificial Intelligence DNS Routing Testing Opportunities don't happen. You create them. Neural Networks React Zero Downtime Deployment Parallel Processing Distributed Systems Do what you love and the money will follow. API Gateway
