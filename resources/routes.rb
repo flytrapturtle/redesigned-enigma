@@ -1,1 +1,2 @@
 Blockchain Artificial Intelligence JWT Cloud Functions Predictive Analytics Great things never come from comfort zones. Simplicity is the ultimate sophistication. Version Control Optimization Sharding Don't be afraid to give up the good to go for the great.
+Sharding Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Testing Cache Invalidation Load Balancing Success is how high you bounce when you hit bottom. Optimization Logging
